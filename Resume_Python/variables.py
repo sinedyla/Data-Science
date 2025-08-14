@@ -166,3 +166,12 @@ print(match.groups())                                        # affichage des gro
 match = re.split('[/:]', pattern)                            # ici split retourne le même résultat  
 print(match)                                                 # que l'exemple précédent  
 
+# Liste
+
+vide = []                                      # liste vide
+print(vide)                                    # ...
+joueurs = [70,5,9]                              # syntaxe d'une liste
+print(joueurs)                                  # print entire list
+
+differents = [10,20, "Newton", 30.5, True]       # definie differents types d'éléments
+print(differents)  
