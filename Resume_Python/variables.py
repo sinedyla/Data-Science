@@ -174,4 +174,5 @@ joueurs = [70,5,9]                              # syntaxe d'une liste
 print(joueurs)                                  # print entire list
 
 differents = [10,20, "Newton", 30.5, True]       # definie differents types d'éléments
-print(differents)  
+print(differents)
+
